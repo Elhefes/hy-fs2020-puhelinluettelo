@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/henripalin/hy-fs2020-puhelinluettelo/issues"
   },
-  "homepage": "https://github.com/henripalin/hy-fs2020-puhelinluettelo#readme",
-  "dependencies": {
-    "-": "0.0.1",
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/henripalin/hy-fs2020-puhelinluettelo#readme"
 }
