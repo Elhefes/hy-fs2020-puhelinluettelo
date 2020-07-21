@@ -1,0 +1,24 @@
+{
+  "name": "hy-fs2020-puhelinluettelo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henripalin/hy-fs2020-puhelinluettelo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henripalin/hy-fs2020-puhelinluettelo/issues"
+  },
+  "homepage": "https://github.com/henripalin/hy-fs2020-puhelinluettelo#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "express": "^4.17.1"
+  }
+}
