@@ -1,3 +1,3 @@
 # hy-fs2020-puhelinluettelo
 
-[Sovellus Herokussa](https://aqueous-inlet-89459.herokuapp.com/)
+[Sovellus Herokussa](https://safe-beach-43633.herokuapp.com/)
